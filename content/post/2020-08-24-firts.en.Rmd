@@ -1,0 +1,29 @@
+---
+title: firts
+author: walter
+date: '2020-08-24'
+slug: firts
+categories:
+  - R
+tags:
+  - Deep Learning
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-08-24T10:40:13-04:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+## My firts
+
++ ysela ochoa
+
+```{r}
+plot(cars)
+```
+
